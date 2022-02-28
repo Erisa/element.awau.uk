@@ -2,7 +2,7 @@
 set -x
 
 # configure here
-ELEMENT_VERSION=v1.10.4
+ELEMENT_VERSION=v1.10.5
 # end configure here
 
 wget -O element.tar.gz https://github.com/vector-im/element-web/releases/download/$ELEMENT_VERSION/element-$ELEMENT_VERSION.tar.gz

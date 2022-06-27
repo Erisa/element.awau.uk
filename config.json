@@ -27,7 +27,7 @@
     "showLabsSettings": false,
     "features": { },
     "default_federate": true,
-    "default_theme": "light",
+    "default_theme": "dark",
     "roomDirectory": {
         "servers": [
             "matrix.org"

@@ -6,7 +6,7 @@ This project demonstrates how to host [element-web](https://github.com/vector-im
 
 - Edit `config.json` to fit needs.
 - Create Cloudflare Pages project with repo.
-- Set build command as `./build.sh` and output dir as `out`
+- Set build command as `bash ./build.sh` and output dir as `out`
 - Build and win.
 
 ## Upgrading

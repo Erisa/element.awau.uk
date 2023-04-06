@@ -9,6 +9,6 @@ wget -O element.tar.gz https://github.com/vector-im/element-web/releases/downloa
 
 tar -xvf element.tar.gz
 mv element-$ELEMENT_VERSION out
-cp config.json out/config.json
+cp config/* out/
 
 # ./out is now ready.

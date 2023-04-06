@@ -10,5 +10,6 @@ wget -O element.tar.gz https://github.com/vector-im/element-web/releases/downloa
 tar -xvf element.tar.gz
 mv element-$ELEMENT_VERSION out
 cp config/* out/
+cp 404.html out/
 
 # ./out is now ready.

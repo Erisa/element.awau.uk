@@ -2,7 +2,7 @@
 set -x
 
 # configure here
-ELEMENT_VERSION=v1.11.81
+ELEMENT_VERSION=v1.11.82
 # end configure here
 
 curl -L -o element.tar.gz https://github.com/vector-im/element-web/releases/download/$ELEMENT_VERSION/element-$ELEMENT_VERSION.tar.gz

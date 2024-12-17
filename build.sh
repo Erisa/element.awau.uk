@@ -5,7 +5,7 @@ set -x
 ELEMENT_VERSION=v1.11.88
 # end configure here
 
-curl -L -o element.tar.gz https://github.com/vector-im/element-web/releases/download/$ELEMENT_VERSION/element-$ELEMENT_VERSION.tar.gz
+curl -L -o element.tar.gz https://github.com/element-hq/element-web/releases/download/$ELEMENT_VERSION/element-$ELEMENT_VERSION.tar.gz
 
 tar -xvf element.tar.gz
 mv element-$ELEMENT_VERSION out

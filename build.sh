@@ -2,7 +2,7 @@
 set -x
 
 # configure here
-ELEMENT_VERSION=v1.11.106
+ELEMENT_VERSION=v1.11.107
 # end configure here
 
 curl -L -o element.tar.gz https://github.com/element-hq/element-web/releases/download/$ELEMENT_VERSION/element-$ELEMENT_VERSION.tar.gz
